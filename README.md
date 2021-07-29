@@ -29,3 +29,5 @@ Pour installer WSL, nous avons d'abord besoins d'activer quelques fonctionalité
 * Ouvrez une invite de commande Windows
 * Entrez la commande "wsl -l", cette commande vous permet de voir les distribution installer sur votre ordinateurs
 * Entrez ensuite la commande "wsl --set-version Débian 2
+* Si vous obtenez l'erreur "assurez-vous que la virtualisation est activée dans le BIOS" allez dans le BIOS de votre ordinateur est activez la virtualisation
+Félicitation ! Vous avez installé WSL 2.
