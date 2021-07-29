@@ -13,7 +13,7 @@ Pour installer WSL, nous avons d'abord besoins d'activer quelques fonctionalité
 * Rendez-vous dans ["Programmes"](https://i.imgur.com/kmeVfLA.png "Programmes") puis ["Programmes et fonctionnalités"](https://i.imgur.com/SYEXIwa.png "Programmes et fonctionalités")
 * Cliquez sur l'onglet ["Activer ou désactiver des fonctionnalité Windows"](https://i.imgur.com/DgWPyYk.png "Activer ou désactiver des fonctionnalités Windows") sur la gauche de votre fenêtre
 * Cochez les options "Sous système Windows pour Linux" ainsi que "Plateforme d'ordinateur virtuel"
-* Redémarez votre ordinateur
+* Redémarrez votre ordinateur
 
 ## Téléchargement de votre distribution Linux
 * Rendez-vous dans le microsoft store
