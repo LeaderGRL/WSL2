@@ -1,7 +1,7 @@
 # Qu'est-ce que WSL ?
 WSL Vous permet d'éxécuter et d'utiliser un environnement Linux sous windows sans avoir la contrainte d'utiliser une machine virtuel.
 
-# Installation WSL2
+# Installation WSL
 ## Configuration requise
 * Vous devez posséder une version de windows 10 Home, Pro ou Entreprise en 64bits
 * Vous devez posséder au minimum la mise à jour 2004 de windows
@@ -13,3 +13,19 @@ Pour installer WSL, nous avons d'abord besoins d'activer quelques fonctionalité
 * Rendez-vous dans ["Programmes"](https://i.imgur.com/kmeVfLA.png "Programmes") puis ["Programmes et fonctionnalités"](https://i.imgur.com/SYEXIwa.png "Programmes et fonctionalités")
 * Cliquez sur l'onglet ["Activer ou désactiver des fonctionnalité Windows"](https://i.imgur.com/A33c9mv.png "Activer ou désactiver des fonctionnalité Windows") sur la gauche de votre fenêtre
 * Cochez les options "Sous système Windows pour Linux" ainsi que "Plateforme d'ordinateur virtuel"
+* Redémarez votre ordinateur
+
+## Téléchargement de votre distribution Linux
+* Rendez-vous dans le microsoft store
+* Dans la barre de recherche, tapez "WSL"
+* Séléctionner la distribution "Débian" et téléchargez la
+* Démmarez Débian
+* Ajoutez un nom d'utilisateur comme demandé (**en minuscule**)
+* Ajoutez votre mots de passe
+* Fermez Debian
+
+## Migration vers WSL2
+* Téléchargez et installez ce [package](https://wslstorestorage.blob.core.windows.net/wslblob/wsl_update_x64.msi)
+* Ouvrez une invite de commande Windows
+* Entrez la commande "wsl -l", cette commande vous permet de voir les distribution installer sur votre ordinateurs
+* Entrez ensuite la commande "wsl --set-version Débian 2
