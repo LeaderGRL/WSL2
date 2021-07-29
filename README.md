@@ -18,10 +18,10 @@ Pour installer WSL, nous avons d'abord besoins d'activer quelques fonctionalité
 ## Téléchargement de votre distribution Linux
 * Rendez-vous dans le microsoft store
 * Dans la barre de recherche, tapez "WSL"
-* Séléctionner la distribution "Débian" et téléchargez la
-* Démmarez Débian
+* Séléctionnez la distribution "Débian" et téléchargez la
+* Démmarrez Débian
 * Ajoutez un nom d'utilisateur comme demandé (**en minuscule**)
-* Ajoutez votre mots de passe
+* Ajoutez votre mot de passe
 * Fermez Debian
 
 ## Migration vers WSL2
